@@ -1,0 +1,42 @@
+.garden
+	{color:#DE3163;
+	background-color:#40E0D0;
+	font-size:20px;
+	padding:12px;
+	margin:20px;
+	border:10px black solid;
+	text-align:center;
+	}
+	
+#flower
+	{color:#8E44AD;
+	background-color:#BFC9CA;
+	font-size:15px;
+	padding:15px;
+	margin:10px;
+	border:10px blue dotted;
+	text-align:center;
+	}	
+	
+.tree
+	{color:#F1C40F;
+	background-color:#27AE60;
+	font-size:20px;
+	padding:20px;
+	margin:25px;
+	border:25px solid aqua;
+	}
+.tree img{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		}
+	
+#rose
+	{color:#5DADE2;
+	background-color:#EC7063;
+	font-size:15px;
+	padding:10px;
+	margin:10px;
+	border:3px solid orange;
+	}	
